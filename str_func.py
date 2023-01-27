@@ -1,8 +1,4 @@
 def capital_letters(letters):
-    """
-    Возвращает строку
-    всеми заглавными буквами
-    """
     return letters.upper()
 
 def first_letter_capital(letters):
