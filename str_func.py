@@ -4,5 +4,3 @@ def capital_letters(letters):
     всеми заглавными буквами
     """
     return letters.upper()
-
-
